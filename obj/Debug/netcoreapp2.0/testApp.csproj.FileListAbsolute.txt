@@ -1,0 +1,10 @@
+C:\Users\Tobi\Desktop\OdeToFood\testApp\bin\Debug\netcoreapp2.0\testApp.deps.json
+C:\Users\Tobi\Desktop\OdeToFood\testApp\bin\Debug\netcoreapp2.0\testApp.runtimeconfig.json
+C:\Users\Tobi\Desktop\OdeToFood\testApp\bin\Debug\netcoreapp2.0\testApp.runtimeconfig.dev.json
+C:\Users\Tobi\Desktop\OdeToFood\testApp\bin\Debug\netcoreapp2.0\testApp.dll
+C:\Users\Tobi\Desktop\OdeToFood\testApp\bin\Debug\netcoreapp2.0\testApp.pdb
+C:\Users\Tobi\Desktop\OdeToFood\testApp\obj\Debug\netcoreapp2.0\testApp.csproj.CoreCompileInputs.cache
+C:\Users\Tobi\Desktop\OdeToFood\testApp\obj\Debug\netcoreapp2.0\testApp.AssemblyInfoInputs.cache
+C:\Users\Tobi\Desktop\OdeToFood\testApp\obj\Debug\netcoreapp2.0\testApp.AssemblyInfo.cs
+C:\Users\Tobi\Desktop\OdeToFood\testApp\obj\Debug\netcoreapp2.0\testApp.dll
+C:\Users\Tobi\Desktop\OdeToFood\testApp\obj\Debug\netcoreapp2.0\testApp.pdb
